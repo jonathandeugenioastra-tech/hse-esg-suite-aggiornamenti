@@ -1,0 +1,29 @@
+{
+ "formato": "ASTRA-suite-aggiornamenti-1",
+ "versione": "2026.10.24",
+ "data": "2026-10-24",
+ "descrizione": "Pacchetto iniziale: registro delle edizioni delle norme (scelta tra edizione nuova e precedente).",
+ "moduli": {},
+ "norme": [
+  {
+   "id": "atex-29",
+   "fino": "2029-01-31"
+  },
+  {
+   "id": "atex-14",
+   "fino": "2027-10-04"
+  },
+  {
+   "id": "atex-17",
+   "fino": "2027-01-05"
+  },
+  {
+   "id": "fulmini",
+   "fino": "2027-10-31"
+  },
+  {
+   "id": "iso14001",
+   "fino": "2029-04-15"
+  }
+ ]
+}
